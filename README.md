@@ -1,2 +1,2 @@
 # ankara_ceviri
-Translate App with Flutter
+Translation App with Flutter
